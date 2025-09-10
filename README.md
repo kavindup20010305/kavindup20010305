@@ -43,7 +43,7 @@
 
 ## 🌍 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/)   
-- 🌐 [Portfolio Website](https://your-portfolio-link.com/) 
+- 🌐 [Portfolio Website]([https://your-portfolio-link.com/](https://kavindup20010305.github.io/)) 
 - 📫 kavindup52@gmail.com  
 
 ---
