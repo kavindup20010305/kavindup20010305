@@ -1,36 +1,50 @@
-# Hi, I’m Kavindu 👋
+# 👋 Hi, I’m Kavindu  
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🎓 3rd Year Software Engineering Student  
-- 💻 Interested in Web Development, IoT, and AI  
-- 🚀 Currently learning Docker & Cloud  
-- 📫 Reach me at: **yourname@email.com**
+🎓 3rd Year Software Engineering Student  
+💻 Passionate about **Web Development**, **Data Analysis**, and **Cyber Security**  
+🚀 Currently learning **Docker, Cloud Computing, and Ethical Hacking**  
+📊 Love exploring data to find insights and building secure, scalable systems  
 
 ---
 
 ## 🔧 Tech Stack  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+**Web Development:**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+
+**Data Analysis & Tools:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+
+**Cyber Security & DevOps:**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 ---
 
 ## 📊 GitHub Stats  
-![Kavindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavindup20010305&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavindup20010305&layout=compact&theme=tokyonight)
+![Kavindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavindup20010305&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavindup20010305&layout=compact&theme=radical)  
 
 ---
 
-## 🌐 Connect with Me  
-- [LinkedIn](https://linkedin.com/in/your-profile)  
-- [Portfolio](https://yourportfolio.com)  
-- 📧 Email: yourname@email.com  
+## 🌍 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/) *(Add your link here)*  
+- 🌐 [Portfolio Website](https://your-portfolio-link.com/) *(optional)*  
+- 📫 **yourname@email.com**  
 
 ---
 
