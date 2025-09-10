@@ -42,9 +42,9 @@
 ---
 
 ## 🌍 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/) *(Add your link here)*  
-- 🌐 [Portfolio Website](https://your-portfolio-link.com/) *(optional)*  
-- 📫 **yourname@email.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/)   
+- 🌐 [Portfolio Website](https://your-portfolio-link.com/) 
+- 📫 kavindup52@gmail.com  
 
 ---
 
