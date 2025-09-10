@@ -47,5 +47,4 @@
 - 📫 kavindup52@gmail.com  
 
 ---
-
-![Snake animation](https://github.com/kavindup20010305/kavindup20010305/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kavindup20010305/kavindup20010305/blob/output/snake.svg)
