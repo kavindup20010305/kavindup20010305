@@ -7,13 +7,13 @@
 ## 🔥 About Me  
 🎓 I am a **3rd-year Software Engineering undergraduate** passionate about building secure, scalable, and data-driven systems.  
 💻 I specialize in **Web Development**, **Data Analytics**, and **Cyber Security Research**.  
-🚀 Currently learning and exploring:  
+🚀 Currently exploring:  
 - Docker & Containerization  
 - Cloud Computing  
-- Ethical Hacking & Red Team Tools  
-- Advanced Data Analytics  
+- Ethical Hacking  
+- Advanced Data Analytics & Automation  
 
-📊 I love exploring data to uncover insights, designing efficient systems, and solving real-world engineering problems.
+📊 I enjoy solving real-world engineering problems and building applications that make an impact.
 
 ---
 
@@ -46,44 +46,49 @@
 ---
 
 ## 🚀 Featured Projects  
-### 🔹 **Digital Image Processing Models**
+🔹 **Digital Image Processing Models**  
 - Image Language Processing  
-- Defect Detection & Quality Inspection  
+- Quality Defect Detection  
 - Image Enhancement & Segmentation  
 
-### 🔹 **Desktop Applications**
-- Flutter Desktop App for file management  
-- React + Electron stock controlling system  
+🔹 **Desktop Applications**  
+- Flutter Desktop File Organizer  
+- React + Electron Stock Control System  
 
-### 🔹 **Web Development Projects**
-- Static + Dynamic websites  
-- Inventory & Supply Chain systems  
-- Portfolio & Company Web Apps  
+🔹 **Web Development**  
+- Static & Dynamic Company Websites  
+- Inventory & Supply Chain Systems  
+- Portfolio & E-commerce UI Designs  
 
 ---
 
 ## 📈 GitHub Stats  
+
+### ✔ Fully Working (2025 Fix Applied)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavindup20010305&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindup20010305&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kavindup20010305&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kavindup20010305&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 🏆 Achievements  
-- Completed multiple **full-stack projects**  
-- Experience in **data-driven analysis** for real business cases  
-- Hands-on work with **Scrum, SRS, 4+1 Architecture Models**, and **software reliability concepts**  
-- Built **automation tools**, **web apps**, and **DIP systems**  
+- Completed multiple **web & desktop applications**  
+- Experienced with **Scrum**, **SRS writing**, and **4+1 Architecture Models**  
+- Work on **real-world data analytics & business workflow optimization**  
+- Strong interest in **ethical hacking & system security**  
 
 ---
 
 ## 🌍 Connect With Me  
 - 🌐 Portfolio: **https://kavindup20010305.github.io/**  
-- 💼 LinkedIn: *(Add your link)*  
+- 💼 LinkedIn: *(Add your link here)*  
 - 📧 Email: **kavindup52@gmail.com**
 
 ---
 
-## 🐍 Contribution Snake Animation  
+## 🐍 GitHub Contribution Snake  
 ![Snake animation](https://raw.githubusercontent.com/kavindup20010305/kavindup20010305/output/snake.svg)
