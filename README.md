@@ -64,7 +64,7 @@
 
 ## 📈 GitHub Stats  
 
-### ✔ Fully Working (2025 Fix Applied)
+### ✔ Fully Working 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kavindup20010305&show_icons=true&theme=radical" />
 </p>
