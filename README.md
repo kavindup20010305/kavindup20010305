@@ -66,8 +66,8 @@
 
 ### ✔ Fully Working 
 <p align="center">
-  <img src="[https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kavindup20010305&show_icons=true&theme=radical](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kavindup20010305&show_icons=true&theme=radical
-)" />
+  <img src="![Stats](https://github-readme-stats-mu-rosy.vercel.app/api?username=kavindup20010305&show_icons=true&theme=tokyonight)
+" />
 </p>
 
 <p align="center">
