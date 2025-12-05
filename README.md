@@ -64,15 +64,16 @@
 
 ## 📈 GitHub Stats  
 
-### ✔ Fully Working 
 <p align="center">
-  <img src="![Stats](https://github-readme-stats-mu-rosy.vercel.app/api?username=kavindup20010305&show_icons=true&theme=tokyonight)
-" />
+  <img src="https://github-readme-stats-git-master-rstaa-rs.vercel.app/api?username=kavindup20010305&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="[https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kavindup20010305&layout=compact&theme=radical](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kavindup20010305&layout=compact&theme=radical
-)" />
+  <img src="https://github-readme-stats-git-master-rstaa-rs.vercel.app/api/top-langs/?username=kavindup20010305&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kavindup20010305&theme=radical" />
 </p>
 
 ---
